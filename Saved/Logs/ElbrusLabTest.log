@@ -5913,3 +5913,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.21-12.01.04:972][687]LogPlayLevel: Display: Destroying online subsystem :Context_55
 [2021.05.21-12.01.04:972][687]LogPlayLevel: Display: Destroying online subsystem :Context_54
 [2021.05.21-12.01.05:637][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.05.21-12.10.33:322][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Content: 'D:/Epic/UE_4.26/Engine/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:322][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/Epic/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:322][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:322][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:322][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:322][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:322][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:322][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/Epic/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.33:323][457]SourceControl: fatal: D:/Epic/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Epic/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Epic/Projects/ElbrusLabTest'
+[2021.05.21-12.10.37:091][457]EditorErrors: Warning: No assets to check in!
+[2021.05.21-12.10.46:729][106]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-12.10.46:729][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-12.10.46:950][106]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-12.10.46:950][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-12.10.48:285][175]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-12.10.48:285][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-12.10.48:301][175]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-12.10.48:301][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-12.10.49:823][294]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-12.10.49:823][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-12.10.51:807][475]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-12.10.51:807][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-12.11.00:194][149]LogSlate: Window 'Source Control Login' being destroyed
